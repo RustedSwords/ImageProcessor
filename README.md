@@ -10,6 +10,7 @@ python3
 pillow - https://pillow.readthedocs.io/en/stable/
 ```
 
-* Results 
+* Before
 ![Before](https://github.com/RustedSwords/ImageProcessor/blob/main/imgs/ffii.jpeg?raw=true)
+* After
 ![After](https://github.com/RustedSwords/ImageProcessor/blob/main/editedImgs/ffii_edited.jpg?raw=true)
