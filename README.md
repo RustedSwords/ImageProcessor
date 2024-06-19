@@ -12,5 +12,5 @@ pillow - https://pillow.readthedocs.io/en/stable/
 
 * Before
 ![Before](https://github.com/RustedSwords/ImageProcessor/blob/main/imgs/ffii.jpeg?raw=true)
-* After
+* After 
 ![After](https://github.com/RustedSwords/ImageProcessor/blob/main/editedImgs/ffii_edited.jpg?raw=true)
